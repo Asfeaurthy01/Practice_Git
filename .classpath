@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/islam/.p2/pool/plugins/org.testng_7.4.0.r202105021533.jar" sourcepath="C:/Users/islam/.p2/pool/plugins/org.testng.source_7.4.0.r202105021533.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
